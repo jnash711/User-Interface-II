@@ -1,1 +1,75 @@
 /* Add CSS styling here */
+.name {
+    font-style: sans-serif;
+    text-align: center;
+    font-size: 44px;
+    border:4px solid white;
+    background-color: orange;
+    display:flex;
+    justify-content: center;
+}
+.navButtons {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.about {
+    border: 2px solid black;
+    border-radius: 10%;
+    Padding: 3%;
+}
+.contact{
+    border: 2px solid blue;
+    border-radius: 10%;
+    padding: 3% 2%;
+}
+.projects{
+border: 2px solid orange;
+border-radius: 10%;
+padding: 3% 2%;
+}
+h2{
+    color: black;
+    font-size: 44px;
+    border: 5px solid white;
+    display:flex;
+    justify-content: center;
+}
+p{
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+.dog {
+    width:90%;
+    height:30%;
+    display:flex;
+}
+img{
+    border: 3px solid black;
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+    height: 2%;
+}
+.bottom-drip{
+    display:flex;
+    flex-wrap:wrap;
+justify-content:space-evenly;
+}
+.bottompic1{
+    height: 25%;
+    width: 25%;
+}
+.bottompic2{
+    height:25%;
+    width:25%;
+}
+.bottompic3{
+    height25%;
+    width:25%;
+}
+.bottomp{
+    display:flex
+    justify-content:center;
+}
